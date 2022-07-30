@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qujixiang
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning cyberspace security
 - 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me qujixiang1999@163.com
