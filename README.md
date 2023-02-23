@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qujixiang
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cyberspace security
-- 💞️ I’m looking to collaborate on frontend development projects
+- 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me qujixiang1999@163.com
 
 <!---
